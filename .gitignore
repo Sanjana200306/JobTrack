@@ -32,8 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-
+# Keep database credentials and local logs out of Git
 src/main/resources/application.properties
-
-
 error-log.txt
