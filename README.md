@@ -1,9 +1,6 @@
 # JobTrack
 A job application tracking system built using Java, Spring Boot and MySQL.
 
-
-# JobTrack - Job Application Tracker
-
 ## About
 JobTrack is a project designed to help users
 organize and track their job applications.
